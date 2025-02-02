@@ -7,6 +7,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 a {
   text-decoration: none;
   display: inline-block;
@@ -383,7 +387,7 @@ span {
 }
 
 .offer_heading .main_heading {
-  padding-right: 50px;
+  padding-right: 200px;
 }
 
 .offer_tabs ul li .nav-link {
@@ -450,10 +454,6 @@ span {
   top: 75px;
   /* right: -170px; */
   right: -90px;
-}
-
-.offer_tab_img img {
-  width: 100%;
 }
 
 /* Offer area end  */
@@ -582,7 +582,7 @@ span {
 }
 
 .residential_heading .main_heading {
-  padding-right: 50px;
+  padding-right: 165px;
 }
 
 .residential_gap {
@@ -703,7 +703,7 @@ span {
   position: absolute;
   top: -65px;
   right: -80px;
-  width: 480px;
+  max-width: 480px;
 }
 
 /* Testimonial area end  */
