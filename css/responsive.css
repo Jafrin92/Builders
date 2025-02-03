@@ -149,13 +149,27 @@
   }
 
   .video_content h4 {
-    padding-right: 200px;
+    padding-right: 185px;
   }
   /* Video section area end   */
 
+  /* Offer area start  */
+  .offer_heading .main_heading {
+    padding-right: 200px;
+  }
+
+  .offer_tab_content .paragraph {
+    margin-right: 0;
+  }
+  /* Offer area end */
+
+  .residential_heading .main_heading {
+    padding-right: 165px;
+  }
+
   /* Testimonial section area start   */
   .testimonial_heading .main_heading {
-    padding-right: 106px;
+    padding-right: 130px;
   }
 
   .testimonial_heading .paragraph {
@@ -169,6 +183,9 @@
   /* Testimonial section area end   */
 
   /* Members area start   */
+  .member_heading .main_heading {
+    padding-right: 0;
+}
 
   .member_shape {
     width: 85%;
