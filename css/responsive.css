@@ -1470,7 +1470,7 @@
   }
 
   .about_content_img_text a {
-    font-size: var(--forteen_size);
+    font-size: 12px;
     padding: 0px 10px;
   }
 
@@ -1501,7 +1501,7 @@
   }
 
   .offer_tabs ul li .nav-link {
-    padding: 0 10px 5px 0;
+    padding: 0 5px 5px 0;
   }
 
   .offer_tabs ul li button {
@@ -1521,6 +1521,7 @@
   .offer_tab_content .paragraph {
     line-height: 20px;
     padding: 15px 0;
+    margin-right: 0;
   }
 
   .offer_tab_img {
